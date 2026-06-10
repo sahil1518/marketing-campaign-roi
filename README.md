@@ -31,4 +31,9 @@ to identify highest ROI channels and optimize budget allocation.
 - excel/ — A/B test calculator
 - powerbi/ — dashboard file
 - screenshots/ — all dashboard pages
+
+## Dashboard Screenshots
+![Page 1](screenshots/01_pbi_page3.png)
+![Page 2](screenshots/02_pbi_page3.png)
+![Page 3](screenshots/03_pbi_page3.png)
   
